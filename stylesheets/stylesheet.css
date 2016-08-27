@@ -10,14 +10,20 @@ body {
 
 /* General & 'Reset' Stuff */
 
+.header {
+	width: 90%;
+	max-width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
 .container {
   width: 90%;
-  max-width: 600px;
   margin: 0 auto;
 }
 
 section {
-  display: block;
+  display: inline-block;
   margin: 0 0 20px 0;
 }
 

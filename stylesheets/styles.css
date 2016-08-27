@@ -1,0 +1,22 @@
+body {
+    clear: both;
+}
+.panel-left {
+	position: relative;
+	float: left;
+	text-align: left;
+	padding-left: 10px;
+	width: 70%;
+}
+.panel-right {
+	position: relative;
+	float: right;
+	text-align: left;
+	padding-right: 10px;
+	width: 20%;
+}
+img.scrolling {
+	position: fixed;
+	margin-right: 5%;
+	width: 160px;
+}
